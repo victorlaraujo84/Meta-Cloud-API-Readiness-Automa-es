@@ -1,0 +1,6 @@
+{
+  "name": "Meta Cloud API Readiness & Automações",
+  "description": "Plataforma de validação de requisitos para WhatsApp Cloud API oficial da Meta, diagnóstico de conformidade, auditoria com links oficiais e funil de automação com Twilio, n8n e Botpress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
